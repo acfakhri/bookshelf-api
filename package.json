@@ -1,0 +1,31 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "tugas dicoding",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "npx nodemon src/server.js",
+    "test": "console.log('tes')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paiiss/bookshelf.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "AcFakhri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paiiss/bookshelf/issues"
+  },
+  "homepage": "https://github.com/Paiiss/bookshelf#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "nanoid": "^3.3.4"
+  }
+}
