@@ -1,7 +1,7 @@
 {
   "name": "bookshelf",
   "version": "1.0.0",
-  "description": "tugas dicoding",
+  "description": "Dicoding",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
@@ -17,10 +17,6 @@
   ],
   "author": "AcFakhri",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Paiiss/bookshelf/issues"
-  },
-  "homepage": "https://github.com/Paiiss/bookshelf#readme",
   "devDependencies": {
     "eslint": "^8.54.0"
   },
